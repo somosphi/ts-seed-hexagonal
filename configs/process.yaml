@@ -1,0 +1,4 @@
+apps:
+  - script: 'dist/src/index.js'
+    exec_mode: 'cluster'
+    instances: 1
